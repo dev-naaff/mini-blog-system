@@ -1,21 +1,22 @@
-# Mini Blog Systen
+# Mini Blog System
 
 ## Database
-a. User
-b. Article
-c. Role
-d. Categories
+Nama Database = mini-blog
+- [x] User
+- [x] Article
+- [x] Role
+- [x] Categories
 
 ## Feature
-1. LOGIN
-2. REGISTER
-3. LIHAT ARTIKEL
-4. BUAT ARTIKEL
-5. HAPUS ARTIKEL
-6. EDIT ARTIKEL
-7. CARI BERDASARKAN JUDUL ARTIKEL
-8. CARI BERDASARKAN CATEGORIES
-9. CARI BEDASARKAN USER
+- [ ] LOGIN
+- [ ] REGISTER
+- [ ] LIHAT ARTIKEL
+- [ ] BUAT ARTIKEL
+- [ ] HAPUS ARTIKEL
+- [ ] EDIT ARTIKEL
+- [ ] CARI BERDASARKAN JUDUL ARTIKEL
+- [ ] CARI BERDASARKAN CATEGORIES
+- [ ] CARI BEDASARKAN USER
 
 ## ROLE
 1. PENULIS
@@ -23,7 +24,7 @@ d. Categories
 3. ADMINISTRATOR , LOGGING
 
 ## PEMBAGIAN
-ARF -> MIGRATION,DB, LOGIN
+ARF -> MIGRATION, DB, LOGIN
 AHF -> FAKER,REGISTER
 
 ## BRANCH
